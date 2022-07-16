@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+title = 'My New Hugo Site'
+theme = 'zen'
+languageCode = 'en-us'
+
+[params]
+  cookieConsent =  true
+  contact = "info@example.org"
