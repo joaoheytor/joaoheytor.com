@@ -1,6 +1,6 @@
 ---
 title: Problema ao instalar Kaspersky Endpoint Security
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-09-08T20:59:30+00:00
 url: /2015/09/08/problema-ao-instalar-kaspersky-endpoint-security/

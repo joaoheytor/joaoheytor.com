@@ -1,6 +1,6 @@
 ---
 title: Benchmark de DNS
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-20T16:45:29+00:00
 url: /2011/06/20/benchmark-de-dns/

@@ -1,6 +1,6 @@
 ---
 title: Caso de Sucesso ITIL v3 – Polícia Militar de SP
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-08-17T11:38:00+00:00
 url: /2010/08/17/caso-de-sucesso-itil-v3-policia-militar-de-sp/

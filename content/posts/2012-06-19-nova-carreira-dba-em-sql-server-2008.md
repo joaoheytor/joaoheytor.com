@@ -1,6 +1,6 @@
 ---
 title: 'Nova Carreira: DBA em SQL Server 2008'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-06-19T18:30:31+00:00
 url: /2012/06/19/nova-carreira-dba-em-sql-server-2008/

@@ -1,6 +1,6 @@
 ---
 title: SulAmérica adota solução de cloud computing do Google
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-04T23:27:12+00:00
 url: /2012/04/04/sulamerica-adota-solucao-de-cloud-computing-do-google/

@@ -1,6 +1,6 @@
 ---
 title: Dicas para o comando Netsh
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-01T15:00:35+00:00
 url: /2010/07/01/dicas-para-o-comando-netsh/

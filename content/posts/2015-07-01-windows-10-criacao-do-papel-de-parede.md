@@ -1,6 +1,6 @@
 ---
 title: Windows 10 – Criação do Papel de Parede
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-07-01T23:16:09+00:00
 url: /2015/07/01/windows-10-criacao-do-papel-de-parede/

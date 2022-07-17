@@ -1,6 +1,6 @@
 ---
 title: Group Policy Management – Comando DCGPOFIX
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-04-23T18:02:14+00:00
 excerpt: Nesse rápido post, aprendemos como restaurar as duas políticas de grupo padrão que estão inclusas no Active Directory

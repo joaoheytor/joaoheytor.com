@@ -1,6 +1,6 @@
 ---
 title: Windows Server 2012 – Erro Cannot get online data
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-09-17T10:15:59+00:00
 url: /2014/09/17/windows-server-2012-erro-cannot-get-online-data/

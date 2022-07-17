@@ -1,6 +1,6 @@
 ---
 title: 'ITIL: Service Design'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-08-10T18:45:06+00:00
 url: /2010/08/10/itil-service-design/

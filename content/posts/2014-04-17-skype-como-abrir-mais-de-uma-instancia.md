@@ -1,6 +1,6 @@
 ---
 title: 'Skype: Como abrir mais de uma instância'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-04-17T08:38:04+00:00
 url: /2014/04/17/skype-como-abrir-mais-de-uma-instancia/

@@ -1,6 +1,6 @@
 ---
 title: Removendo Serviços do Windows
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-17T18:50:41+00:00
 url: /2012/04/17/removendo-servicos-do-windows/

@@ -1,6 +1,6 @@
 ---
 title: Descubra tudo o que o Google sabe sobre você
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-03-29T23:07:31+00:00
 url: /2012/03/29/descubra-tudo-o-que-o-google-sabe-sobre-voce/

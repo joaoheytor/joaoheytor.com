@@ -1,6 +1,6 @@
 ---
 title: O e-mail nacional já era…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-08-24T17:31:24+00:00
 url: /2014/08/24/o-e-mail-nacional-ja-era/

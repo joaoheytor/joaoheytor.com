@@ -1,6 +1,6 @@
 ---
 title: Usuário tem perfil criado no Badoo sem ter acessado rede social, site alega fraude…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-16T19:24:26+00:00
 url: /2012/04/16/usuario-tem-perfil-criado-no-badoo-sem-ter-acessado-rede-social-site-alega-fraude/

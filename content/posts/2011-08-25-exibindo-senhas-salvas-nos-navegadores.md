@@ -1,6 +1,6 @@
 ---
 title: Exibindo senhas salvas nos navegadores
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-08-25T13:43:12+00:00
 excerpt: Saiba como visualizar e proteger as senhas que você memoriza no seu navegador, mesmo que ele não possua esta opção nativa!

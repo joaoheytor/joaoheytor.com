@@ -1,6 +1,6 @@
 ---
 title: Tecnólogo em Gestão da Tecnologia da Informação
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-24T17:56:59+00:00
 url: /2011/02/24/tecnologo-em-gestao-da-tecnologia-da-informacao/

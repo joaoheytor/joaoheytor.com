@@ -1,6 +1,6 @@
 ---
 title: Google Divulga os 1000 sites mais acessados
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-21T13:24:51+00:00
 url: /2010/06/21/google-divulga-os-1000-sites-mais-acessados/

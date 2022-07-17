@@ -1,6 +1,6 @@
 ---
 title: Lojas Renner troca Google pela Microsoft e testa ERP na nuvem
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-19T04:09:13+00:00
 url: /2012/05/19/lojas-renner-troca-google-pela-microsoft-e-testa-erp-na-nuvem-2/

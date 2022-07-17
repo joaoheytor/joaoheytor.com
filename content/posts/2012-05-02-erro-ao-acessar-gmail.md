@@ -1,6 +1,6 @@
 ---
 title: Erro ao Acessar Gmail
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-02T13:43:05+00:00
 url: /2012/05/02/erro-ao-acessar-gmail/

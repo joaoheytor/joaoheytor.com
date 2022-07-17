@@ -1,6 +1,6 @@
 ---
 title: 'Active Directory: Diferença de LastLogon e LastLogonTimeStamp'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-09-23T01:11:46+00:00
 url: /2014/09/22/active-directory-diferenca-de-lastlogon-e-lastlogontimestamp/

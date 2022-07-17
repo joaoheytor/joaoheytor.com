@@ -1,6 +1,6 @@
 ---
 title: Certificação Microsoft – Compre 1 exame e ganhe outro de graça
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-03T14:30:48+00:00
 url: /2012/05/03/certificacao-microsoft-compre-1-exame-e-ganhe-outro-de-graca/

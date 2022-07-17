@@ -1,6 +1,6 @@
 ---
 title: Carteirinhas da Microsoft retornam em 04 de abril!
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-28T18:18:56+00:00
 url: /2011/02/28/carteirinhas-da-microsoft-retornam-em-04-de-abril/

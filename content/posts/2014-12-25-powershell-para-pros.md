@@ -1,6 +1,6 @@
 ---
 title: PowerShell para IT Pros
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-12-25T23:41:59+00:00
 url: /2014/12/25/powershell-para-pros/

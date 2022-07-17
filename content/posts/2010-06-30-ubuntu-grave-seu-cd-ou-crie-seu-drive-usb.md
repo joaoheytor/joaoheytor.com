@@ -1,6 +1,6 @@
 ---
 title: 'Ubuntu: Grave seu CD ou crie seu drive USB'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-01T00:39:14+00:00
 url: /2010/06/30/ubuntu-grave-seu-cd-ou-crie-seu-drive-usb/

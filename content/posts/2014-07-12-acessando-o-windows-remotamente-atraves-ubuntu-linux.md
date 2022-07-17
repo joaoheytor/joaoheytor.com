@@ -1,6 +1,6 @@
 ---
 title: Acessando o Windows remotamente através do Ubuntu (Linux)
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-07-12T16:55:21+00:00
 url: /2014/07/12/acessando-o-windows-remotamente-atraves-ubuntu-linux/

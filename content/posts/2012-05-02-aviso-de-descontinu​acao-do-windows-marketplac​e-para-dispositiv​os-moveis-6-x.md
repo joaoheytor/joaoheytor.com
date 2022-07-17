@@ -1,6 +1,6 @@
 ---
 title: Aviso de Descontinu​ação do Windows Marketplac​e para Dispositiv​os Móveis 6.x
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-02T17:39:15+00:00
 url: /2012/05/02/aviso-de-descontinu​acao-do-windows-marketplac​e-para-dispositiv​os-moveis-6-x/

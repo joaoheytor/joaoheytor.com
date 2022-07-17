@@ -1,6 +1,6 @@
 ---
 title: Script para remover Internet Explorer 11, 10 e 9
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2017-05-12T01:18:53+00:00
 url: /2017/05/11/script-para-remover-internet-explorer-11-10-e-9/

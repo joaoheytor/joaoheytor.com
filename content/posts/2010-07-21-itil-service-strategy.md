@@ -1,6 +1,6 @@
 ---
 title: 'ITIL: Service Strategy'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-21T18:26:40+00:00
 url: /2010/07/21/itil-service-strategy/

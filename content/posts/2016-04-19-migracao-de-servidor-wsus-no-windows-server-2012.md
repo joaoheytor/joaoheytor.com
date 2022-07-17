@@ -1,6 +1,6 @@
 ---
 title: Migração de Servidor WSUS no Windows Server 2012
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-04-19T22:07:57+00:00
 url: /2016/04/19/migracao-de-servidor-wsus-no-windows-server-2012/

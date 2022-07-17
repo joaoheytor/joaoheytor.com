@@ -1,6 +1,6 @@
 ---
 title: Resolução de problema “Falha no logon do Serviço de Perfil de Usuário” no Windows 7
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-03-08T10:47:42+00:00
 url: /2014/03/08/resolucao-de-problema-falha-logon-servico-de-perfil-de-usuario-windows-7/

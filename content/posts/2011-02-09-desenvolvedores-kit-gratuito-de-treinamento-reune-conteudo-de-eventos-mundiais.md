@@ -1,6 +1,6 @@
 ---
 title: 'Desenvolvedores: kit gratuito de treinamento reúne conteúdo de eventos mundiais'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-10T01:00:14+00:00
 url: /2011/02/09/desenvolvedores-kit-gratuito-de-treinamento-reune-conteudo-de-eventos-mundiais/

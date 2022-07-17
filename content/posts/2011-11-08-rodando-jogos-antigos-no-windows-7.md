@@ -1,6 +1,6 @@
 ---
 title: Rodando jogos antigos no Windows 7
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-11-08T14:21:45+00:00
 url: /2011/11/08/rodando-jogos-antigos-no-windows-7/

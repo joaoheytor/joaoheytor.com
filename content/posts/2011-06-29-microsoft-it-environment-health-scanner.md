@@ -1,6 +1,6 @@
 ---
 title: Microsoft IT Environment Health Scanner
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-29T17:46:32+00:00
 url: /2011/06/29/microsoft-it-environment-health-scanner/

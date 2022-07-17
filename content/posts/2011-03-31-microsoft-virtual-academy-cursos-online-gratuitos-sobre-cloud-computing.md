@@ -1,6 +1,6 @@
 ---
 title: Microsoft Virtual Academy – Cursos online gratuitos sobre Cloud Computing
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-31T03:40:47+00:00
 url: /2011/03/31/microsoft-virtual-academy-cursos-online-gratuitos-sobre-cloud-computing/

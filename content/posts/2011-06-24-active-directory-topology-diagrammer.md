@@ -1,6 +1,6 @@
 ---
 title: Active Directory Topology Diagrammer
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-24T23:52:52+00:00
 url: /2011/06/24/active-directory-topology-diagrammer/

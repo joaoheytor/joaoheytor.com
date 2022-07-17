@@ -1,6 +1,6 @@
 ---
 title: Voltando à ativa…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-20T16:25:31+00:00
 url: /2011/06/20/voltando-a-ativa/

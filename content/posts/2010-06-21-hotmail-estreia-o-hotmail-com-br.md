@@ -1,6 +1,6 @@
 ---
 title: Hotmail estreia o “@hotmail.com.br”…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-21T13:16:00+00:00
 url: /2010/06/21/hotmail-estreia-o-hotmail-com-br/

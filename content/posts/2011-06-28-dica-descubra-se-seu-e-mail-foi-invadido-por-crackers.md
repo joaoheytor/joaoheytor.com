@@ -1,6 +1,6 @@
 ---
 title: 'DICA: Descubra se seu e-mail foi invadido por crackers'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-28T18:03:27+00:00
 url: /2011/06/28/dica-descubra-se-seu-e-mail-foi-invadido-por-crackers/

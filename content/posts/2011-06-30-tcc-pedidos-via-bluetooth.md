@@ -1,6 +1,6 @@
 ---
 title: TCC – Pedidos Via Bluetooth
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-07-01T00:59:28+00:00
 url: /2011/06/30/tcc-pedidos-via-bluetooth/

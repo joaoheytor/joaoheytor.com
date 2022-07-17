@@ -1,6 +1,6 @@
 ---
 title: 'Pwn Plug: O pesadelo dos administradores de rede'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-14T20:48:57+00:00
 url: /2012/04/14/pwn-plug-o-pesadelo-dos-administradores-de-rede/

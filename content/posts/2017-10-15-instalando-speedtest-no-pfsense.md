@@ -1,6 +1,6 @@
 ---
 title: Instalando Speedtest no pfSense
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2017-10-15T23:11:42+00:00
 url: /2017/10/15/instalando-speedtest-no-pfsense/

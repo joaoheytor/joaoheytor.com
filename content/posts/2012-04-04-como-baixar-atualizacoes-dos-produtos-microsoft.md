@@ -1,6 +1,6 @@
 ---
 title: Como baixar atualizações dos produtos Microsoft?
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-05T00:59:03+00:00
 url: /2012/04/04/como-baixar-atualizacoes-dos-produtos-microsoft/

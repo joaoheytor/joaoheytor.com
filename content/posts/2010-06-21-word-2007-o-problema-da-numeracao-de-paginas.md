@@ -1,6 +1,6 @@
 ---
 title: Word 2007 – O problema da numeração de páginas…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-21T17:59:13+00:00
 url: /2010/06/21/word-2007-o-problema-da-numeracao-de-paginas/

@@ -1,6 +1,6 @@
 ---
 title: Você gosta de compartilhar conhecimento?
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-19T20:53:01+00:00
 excerpt: Entenda por que é muito importante compartilhar informação e conhecimento. Útil para quem ensina e para quem aprende, a união faz a força e pode até resultar em um novo emprego.

@@ -1,6 +1,6 @@
 ---
 title: Emulando o Android em seu desktop
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-21T01:06:32+00:00
 url: /2012/05/20/emulando-o-android-em-seu-desktop/

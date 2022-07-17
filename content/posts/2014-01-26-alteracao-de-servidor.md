@@ -1,6 +1,6 @@
 ---
 title: Alteração de Servidor
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-01-26T22:13:30+00:00
 url: /2014/01/26/alteracao-de-servidor/

@@ -1,6 +1,6 @@
 ---
 title: Todos os treinamentos gratuitos do TechNet e MSDN em um só lugar
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-22T03:30:25+00:00
 url: /2012/05/22/todos-os-treinamentos-gratuitos-do-technet-e-msdn-em-um-so-lugar/

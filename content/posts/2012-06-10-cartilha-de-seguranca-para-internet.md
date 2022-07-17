@@ -1,6 +1,6 @@
 ---
 title: Cartilha de Segurança para Internet
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-06-10T22:26:48+00:00
 url: /2012/06/10/cartilha-de-seguranca-para-internet/

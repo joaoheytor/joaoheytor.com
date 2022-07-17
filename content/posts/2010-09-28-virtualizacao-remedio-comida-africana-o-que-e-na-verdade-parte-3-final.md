@@ -1,6 +1,6 @@
 ---
 title: Virtualização, remédio? Comida africana? O que é na verdade? – Parte 3 – FINAL
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-09-28T03:41:46+00:00
 url: /2010/09/28/virtualizacao-remedio-comida-africana-o-que-e-na-verdade-parte-3-final/

@@ -1,6 +1,6 @@
 ---
 title: Grande ataque virtual é descoberto no Oriente Médio
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-28T22:44:12+00:00
 url: /2012/05/28/grande-ataque-virtual-e-descoberto-no-oriente-medio/

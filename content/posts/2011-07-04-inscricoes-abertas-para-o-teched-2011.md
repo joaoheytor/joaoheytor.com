@@ -1,6 +1,6 @@
 ---
 title: Inscrições Abertas para o TechEd 2011
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-07-04T16:34:53+00:00
 url: /2011/07/04/inscricoes-abertas-para-o-teched-2011/

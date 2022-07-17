@@ -1,6 +1,6 @@
 ---
 title: ‘Proteger computadores é mais difícil que atacá-los’, diz Kaspersky
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-10-28T00:47:04+00:00
 url: /2011/10/27/proteger-computadores-e-mais-dificil-que-ataca-los-diz-kaspersky/

@@ -1,6 +1,6 @@
 ---
 title: AWS – Criação de Máquinas Windows Server
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-04-26T02:24:22+00:00
 url: /2016/04/25/aws-criacao-de-maquinas-windows-server/

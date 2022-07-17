@@ -1,6 +1,6 @@
 ---
 title: Novos DPNs
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-07-09T02:03:54+00:00
 url: /2012/07/08/novos-dpns/

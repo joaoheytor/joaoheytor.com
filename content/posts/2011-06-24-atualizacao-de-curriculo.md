@@ -1,6 +1,6 @@
 ---
 title: Atualização de Currículo
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-25T00:16:56+00:00
 url: /2011/06/24/atualizacao-de-curriculo/

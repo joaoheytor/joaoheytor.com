@@ -1,6 +1,6 @@
 ---
 title: Google lança serviço que transforma imagem em texto
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-23T02:41:27+00:00
 url: /2010/06/22/google-lanca-servico-que-transforma-imagem-em-texto/

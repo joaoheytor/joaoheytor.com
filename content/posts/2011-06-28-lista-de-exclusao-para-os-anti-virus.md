@@ -1,6 +1,6 @@
 ---
 title: Lista de exclusão para os anti-vírus
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-06-28T11:51:09+00:00
 url: /2011/06/28/lista-de-exclusao-para-os-anti-virus/

@@ -1,6 +1,6 @@
 ---
 title: Powershell – Habilitando conexão remota
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-07-09T02:54:04+00:00
 url: /2016/07/08/powershell-habilitando-conexao-remota/

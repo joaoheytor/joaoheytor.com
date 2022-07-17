@@ -1,6 +1,6 @@
 ---
 title: Descobrindo de qual operadora é determinando numero de celular
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-11-05T14:20:14+00:00
 url: /2011/11/05/descobrindo-de-qual-operadora-e-determinando-numero-de-celular/

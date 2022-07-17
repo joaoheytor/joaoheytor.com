@@ -1,6 +1,6 @@
 ---
 title: Está chegando a edição 2014 do ALM Summit Brasil!
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-08-24T16:35:41+00:00
 url: /2014/08/24/esta-chegando-edicao-2014-alm-summit-brasil/

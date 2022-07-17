@@ -1,6 +1,6 @@
 ---
 title: Windows 7 e Windows Server 2008 R2 Service Pack 1 Lançado Oficialmente
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-26T00:57:30+00:00
 url: /2011/02/25/windows-7-e-windows-server-2008-r2-service-pack-1-lancado-oficialmente/

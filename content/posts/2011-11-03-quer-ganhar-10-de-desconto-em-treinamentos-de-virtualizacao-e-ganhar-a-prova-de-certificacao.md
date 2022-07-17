@@ -1,6 +1,6 @@
 ---
 title: Quer ganhar 10% de desconto em treinamentos de virtualização e GANHAR a prova de certificação?
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-11-03T22:17:39+00:00
 url: /2011/11/03/quer-ganhar-10-de-desconto-em-treinamentos-de-virtualizacao-e-ganhar-a-prova-de-certificacao/

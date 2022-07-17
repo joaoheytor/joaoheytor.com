@@ -1,6 +1,6 @@
 ---
 title: Nova versão do MSN Lançada
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-25T02:32:36+00:00
 url: /2010/06/24/nova-versao-do-msn-lancada/

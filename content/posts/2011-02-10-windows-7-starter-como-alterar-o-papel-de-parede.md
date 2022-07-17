@@ -1,6 +1,6 @@
 ---
 title: 'Windows 7 Starter: Como alterar o papel de parede'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-10T22:14:43+00:00
 url: /2011/02/10/windows-7-starter-como-alterar-o-papel-de-parede/

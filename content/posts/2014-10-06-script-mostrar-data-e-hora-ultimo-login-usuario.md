@@ -1,6 +1,6 @@
 ---
 title: 'Script: Mostrar data e hora do último login do usuário'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-10-06T23:12:26+00:00
 url: /2014/10/06/script-mostrar-data-e-hora-ultimo-login-usuario/

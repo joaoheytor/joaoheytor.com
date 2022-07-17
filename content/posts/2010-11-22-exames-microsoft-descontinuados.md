@@ -1,6 +1,6 @@
 ---
 title: Exames Microsoft Descontinuados
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-11-22T12:10:27+00:00
 url: /2010/11/22/exames-microsoft-descontinuados/

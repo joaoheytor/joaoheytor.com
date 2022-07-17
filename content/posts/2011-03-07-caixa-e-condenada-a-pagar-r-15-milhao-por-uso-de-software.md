@@ -1,6 +1,6 @@
 ---
 title: Caixa é condenada a pagar R$ 1,5 milhão por uso de software
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-07T19:13:35+00:00
 url: /2011/03/07/caixa-e-condenada-a-pagar-r-15-milhao-por-uso-de-software/

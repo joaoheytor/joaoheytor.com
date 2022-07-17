@@ -1,6 +1,6 @@
 ---
 title: Como Gerenciar GPOs de um Domínio com Windows 2003 no Windows 7
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-04-25T18:16:40+00:00
 url: /2011/04/25/como-gerenciar-gpos-de-um-dominio-com-windows-2003-no-windows-7/

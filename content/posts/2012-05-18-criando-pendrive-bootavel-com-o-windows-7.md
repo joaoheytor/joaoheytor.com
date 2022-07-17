@@ -1,6 +1,6 @@
 ---
 title: Criando pendrive bootável com o Windows 7
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-18T17:08:15+00:00
 url: /2012/05/18/criando-pendrive-bootavel-com-o-windows-7/

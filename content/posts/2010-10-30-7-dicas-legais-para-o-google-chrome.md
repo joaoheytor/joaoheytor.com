@@ -1,6 +1,6 @@
 ---
 title: 7 Dicas Legais para o Google Chrome
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-10-30T11:19:17+00:00
 url: /2010/10/30/7-dicas-legais-para-o-google-chrome/

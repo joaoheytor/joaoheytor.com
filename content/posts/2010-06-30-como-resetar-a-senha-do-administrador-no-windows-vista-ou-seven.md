@@ -1,6 +1,6 @@
 ---
 title: Como resetar a senha do Administrador no Windows Vista ou Seven
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-01T00:18:54+00:00
 excerpt: Uma pequena gambiarra para podermos resetar a senha do Windows Vista ou 7

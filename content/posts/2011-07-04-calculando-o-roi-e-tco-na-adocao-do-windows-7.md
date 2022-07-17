@@ -1,6 +1,6 @@
 ---
 title: Calculando o ROI e TCO na adoção do Windows 7
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-07-04T13:39:33+00:00
 url: /2011/07/04/calculando-o-roi-e-tco-na-adocao-do-windows-7/

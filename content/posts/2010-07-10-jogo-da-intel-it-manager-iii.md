@@ -1,6 +1,6 @@
 ---
 title: 'Jogo da Intel: IT Manager III'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-10T18:25:31+00:00
 url: /2010/07/10/jogo-da-intel-it-manager-iii/

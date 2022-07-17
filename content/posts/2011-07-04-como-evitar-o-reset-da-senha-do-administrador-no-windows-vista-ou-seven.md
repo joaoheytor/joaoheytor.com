@@ -1,6 +1,6 @@
 ---
 title: Como evitar o reset da senha do Administrador no Windows Vista ou Seven
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-07-04T15:45:03+00:00
 url: /2011/07/04/como-evitar-o-reset-da-senha-do-administrador-no-windows-vista-ou-seven/

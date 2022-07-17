@@ -1,6 +1,6 @@
 ---
 title: Dicas para Provas de Certificação
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-07T20:17:43+00:00
 url: /2011/03/07/dicas-para-provas-de-certificacao/

@@ -1,6 +1,6 @@
 ---
 title: Planejando o Gerenciamento dos Objetos de Política de Grupo
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-07-12T00:37:02+00:00
 url: /2011/07/11/planejando-o-gerenciamento-dos-objetos-de-politica-de-grupo/

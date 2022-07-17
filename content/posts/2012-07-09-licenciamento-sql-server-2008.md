@@ -1,6 +1,6 @@
 ---
 title: Licenciamento de SQL Server 2008
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-07-10T01:20:12+00:00
 url: /2012/07/09/licenciamento-sql-server-2008/

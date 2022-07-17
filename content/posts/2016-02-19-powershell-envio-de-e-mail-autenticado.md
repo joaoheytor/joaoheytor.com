@@ -1,6 +1,6 @@
 ---
 title: PowerShell – Envio de E-mail autenticado
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-02-19T23:03:46+00:00
 url: /2016/02/19/powershell-envio-de-e-mail-autenticado/

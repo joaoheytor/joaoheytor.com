@@ -1,6 +1,6 @@
 ---
 title: Gartner lista 5 tendências de cloud que afetarão a estratégia das empresas até 2015
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-16T03:30:29+00:00
 url: /2012/04/16/gartner-lista-5-tendencias-de-cloud-que-afetarao-a-estrategia-das-empresas-ate-2015/

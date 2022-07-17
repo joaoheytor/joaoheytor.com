@@ -1,6 +1,6 @@
 ---
 title: Garoto de apenas 8 anos recebe título de especialista em Microsoft
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-07-23T02:12:06+00:00
 url: /2012/07/22/garoto-de-apenas-8-anos-recebe-titulo-de-especialista-em-microsoft/

@@ -1,6 +1,6 @@
 ---
 title: Forçar atualização de Política de Grupo remotamente usando PsExec
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-03-13T21:42:03+00:00
 url: /2015/03/13/forcar-atualizacao-de-politica-de-grupo-remotamente-usando-psexec/

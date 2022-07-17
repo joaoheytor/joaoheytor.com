@@ -1,6 +1,6 @@
 ---
 title: O Comando Reparar do Windows
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-15T14:10:57+00:00
 url: /2010/07/15/o-comando-reparar-do-windows/

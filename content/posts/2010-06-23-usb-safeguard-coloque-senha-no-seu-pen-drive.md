@@ -1,6 +1,6 @@
 ---
 title: 'USB Safeguard: Coloque senha no seu Pen Drive'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-23T21:35:21+00:00
 url: /2010/06/23/usb-safeguard-coloque-senha-no-seu-pen-drive/

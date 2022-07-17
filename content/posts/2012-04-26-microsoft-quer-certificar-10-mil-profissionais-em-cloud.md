@@ -1,6 +1,6 @@
 ---
 title: Microsoft quer certificar 10 mil profissionais em cloud
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-26T14:39:31+00:00
 url: /2012/04/26/microsoft-quer-certificar-10-mil-profissionais-em-cloud/

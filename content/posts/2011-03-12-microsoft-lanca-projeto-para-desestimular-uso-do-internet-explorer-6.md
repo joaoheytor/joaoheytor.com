@@ -1,6 +1,6 @@
 ---
 title: Microsoft lança projeto para desestimular uso do Internet Explorer 6
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-12T14:40:26+00:00
 url: /2011/03/12/microsoft-lanca-projeto-para-desestimular-uso-do-internet-explorer-6/

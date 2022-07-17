@@ -1,6 +1,6 @@
 ---
 title: Executando programas remotos com a ajuda do PsExec
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2017-05-30T03:12:41+00:00
 url: /2017/05/30/executando-programas-remotos-com-ajuda-psexec/

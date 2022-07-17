@@ -1,6 +1,6 @@
 ---
 title: Windows Server – Como deletar Unidades Organizacionais bloqueadas
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-03-04T22:34:41+00:00
 url: /2014/03/04/windows-server-como-deletar-unidades-organizacionais-bloqueadas/

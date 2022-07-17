@@ -1,6 +1,6 @@
 ---
 title: Formatar o computador com Windows 8 e Windows 10
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-10-01T02:03:40+00:00
 url: /2016/09/30/formatar-o-computador-com-windows-8-e-windows-10/

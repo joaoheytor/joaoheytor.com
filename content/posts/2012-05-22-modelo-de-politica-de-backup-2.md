@@ -1,6 +1,6 @@
 ---
 title: Modelo de Política de Backup
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-22T19:23:58+00:00
 url: /2012/05/22/modelo-de-politica-de-backup-2/

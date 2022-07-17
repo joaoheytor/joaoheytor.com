@@ -1,6 +1,6 @@
 ---
 title: Instalando VIM no pfSense
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2017-10-19T00:04:45+00:00
 url: /2017/10/18/instalando-vim-no-pfsense/

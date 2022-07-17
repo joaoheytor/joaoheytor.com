@@ -1,6 +1,6 @@
 ---
 title: Devo rodar anti-vírus no meu servidor com Hyper-V ?
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-23T03:30:42+00:00
 url: /2012/05/23/devo-rodar-anti-virus-no-meu-servidor-com-hyper-v/

@@ -1,6 +1,6 @@
 ---
 title: 'Surpresa: Microsoft é uma das 20 maiores contribuintes do Linux'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-09T17:39:50+00:00
 url: /2012/04/09/surpresa-microsoft-e-uma-das-20-maiores-contribuintes-do-linux/

@@ -1,6 +1,6 @@
 ---
 title: Aprenda Ruby on Rails…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-22T01:43:16+00:00
 url: /2010/06/21/aprenda-ruby-on-rails/

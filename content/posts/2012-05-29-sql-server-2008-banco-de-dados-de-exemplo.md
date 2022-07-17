@@ -1,6 +1,6 @@
 ---
 title: SQL Server 2008 – Banco de Dados de Exemplo
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-29T03:30:14+00:00
 url: /2012/05/29/sql-server-2008-banco-de-dados-de-exemplo/

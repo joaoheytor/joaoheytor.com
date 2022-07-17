@@ -1,6 +1,6 @@
 ---
 title: 'Trabalho em TI: certificação vale mais do que faculdade para entrar no mercado'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-29T03:45:26+00:00
 excerpt: 'Especialista aponta que, em 2011, existirão 92 mil vagas em aberto no setor, que não serão preenchidas por falta de pessoas qualificadas '

@@ -1,6 +1,6 @@
 ---
 title: 'Windows: Resetar TCP/IP e Winsocks'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-04-16T17:56:48+00:00
 url: /2014/04/16/windows-resetar-tcpip-e-winsocks/

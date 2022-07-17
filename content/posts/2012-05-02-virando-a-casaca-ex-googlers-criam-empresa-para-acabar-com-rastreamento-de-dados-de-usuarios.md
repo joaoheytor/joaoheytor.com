@@ -1,6 +1,6 @@
 ---
 title: 'Virando a casaca: ex-googlers criam empresa para acabar com rastreamento de dados de usuários'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-02T13:02:31+00:00
 url: /2012/05/02/virando-a-casaca-ex-googlers-criam-empresa-para-acabar-com-rastreamento-de-dados-de-usuarios/

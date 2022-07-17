@@ -1,6 +1,6 @@
 ---
 title: Testando se o endereço realmente está offline
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-01-27T19:11:13+00:00
 url: /2014/01/27/testando-se-o-endereco-realmente-esta-offline/

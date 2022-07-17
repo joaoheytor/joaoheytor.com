@@ -1,6 +1,6 @@
 ---
 title: Active Directory – Alterar local padrão de computadores e usuários
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-09-20T22:07:45+00:00
 url: /2016/09/20/active-directory-alterar-local-padrao-de-computadores-e-usuarios/

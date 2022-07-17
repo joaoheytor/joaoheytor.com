@@ -1,6 +1,6 @@
 ---
 title: 'Marco Civil: Enquete do Senado quer saber se você é “a favor” de “preços diferenciados” na rede'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-04-09T13:53:12+00:00
 url: /2014/04/09/marcocivil-enquete-do-senado-quer-saber-se-voce-e-a-favor-de-precos-diferenciados-na-rede/

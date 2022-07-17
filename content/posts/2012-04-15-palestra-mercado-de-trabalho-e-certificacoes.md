@@ -1,6 +1,6 @@
 ---
 title: 'Palestra: Mercado de trabalho e Certificações!'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-15T03:30:57+00:00
 url: /2012/04/15/palestra-mercado-de-trabalho-e-certificacoes/

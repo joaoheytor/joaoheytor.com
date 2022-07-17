@@ -1,6 +1,6 @@
 ---
 title: WordPress para iPad…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-02-09T22:15:31+00:00
 url: /2014/02/09/wordpress-para-ipad/

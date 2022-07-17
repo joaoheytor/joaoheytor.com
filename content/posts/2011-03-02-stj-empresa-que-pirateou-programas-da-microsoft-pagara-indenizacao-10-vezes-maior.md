@@ -1,6 +1,6 @@
 ---
 title: 'STJ: Empresa que pirateou programas da Microsoft pagará indenização 10 vezes maior'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-02T11:41:50+00:00
 url: /2011/03/02/stj-empresa-que-pirateou-programas-da-microsoft-pagara-indenizacao-10-vezes-maior/

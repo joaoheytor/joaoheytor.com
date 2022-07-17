@@ -1,6 +1,6 @@
 ---
 title: Otimizando Leitura de Códigos SQL
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-07-24T22:05:04+00:00
 url: /2012/07/24/otimizando-leitura-de-codigos-sql/

@@ -1,6 +1,6 @@
 ---
 title: Problema com Spool de Impressão 2
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2013-12-29T03:00:44+00:00
 url: /2013/12/29/problema-com-spool-de-impressao-2/

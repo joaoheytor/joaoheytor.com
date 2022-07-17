@@ -1,6 +1,6 @@
 ---
 title: Como executar programas sem o Prompt do UAC
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-03T18:07:10+00:00
 url: /2011/02/03/como-executar-programas-sem-o-prompt-do-uac/

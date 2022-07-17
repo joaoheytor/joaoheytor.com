@@ -1,6 +1,6 @@
 ---
 title: Como motivar um profissional de TI?
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-03-29T22:49:27+00:00
 url: /2012/03/29/como-motivar-um-profissional-de-ti/

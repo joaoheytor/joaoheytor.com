@@ -1,6 +1,6 @@
 ---
 title: Removendo o som das Vuvuzelas da sua TV
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-15T22:53:03+00:00
 url: /2010/06/15/ajustando-layout-01/

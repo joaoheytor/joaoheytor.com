@@ -1,6 +1,6 @@
 ---
 title: 550 mil Macs estão infectados por software malicioso, diz empresa
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-07T18:43:47+00:00
 url: /2012/04/07/550-mil-macs-estao-infectados-por-software-malicioso-diz-empresa/

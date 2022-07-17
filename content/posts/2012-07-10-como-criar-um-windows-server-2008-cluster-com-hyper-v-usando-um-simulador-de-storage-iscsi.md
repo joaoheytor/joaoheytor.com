@@ -1,6 +1,6 @@
 ---
 title: Como criar um Windows Server 2008 Cluster com Hyper-V usando um simulador de storage iSCSI
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-07-10T21:19:04+00:00
 url: /2012/07/10/como-criar-um-windows-server-2008-cluster-com-hyper-v-usando-um-simulador-de-storage-iscsi/

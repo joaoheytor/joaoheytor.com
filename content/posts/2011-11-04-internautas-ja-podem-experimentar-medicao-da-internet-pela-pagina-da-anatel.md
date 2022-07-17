@@ -1,6 +1,6 @@
 ---
 title: Internautas já podem experimentar medição da Internet pela página da Anatel
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-11-04T20:25:29+00:00
 url: /2011/11/04/internautas-ja-podem-experimentar-medicao-da-internet-pela-pagina-da-anatel/

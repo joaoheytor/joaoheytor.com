@@ -1,6 +1,6 @@
 ---
 title: Os 50 melhores cursos grátis de TI de toda a Internet
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-03-06T10:28:24+00:00
 url: /2014/03/06/os-50-melhores-cursos-gratis-de-ti-de-toda-internet/

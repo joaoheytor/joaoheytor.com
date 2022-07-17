@@ -1,6 +1,6 @@
 ---
 title: Atualização desabilita autorun nos Windows Vista, XP e 2000
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-10T17:53:03+00:00
 url: /2011/02/10/atualizacao-desabilita-autorun-nos-windows-vista-xp-e-2000/

@@ -1,6 +1,6 @@
 ---
 title: Grupos locais padrão
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-01-02T13:34:32+00:00
 url: /2014/01/02/grupos-locais-padrao/

@@ -1,6 +1,6 @@
 ---
 title: XAMPP e WordPress problemas com admin usando multisite
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-07-05T22:06:57+00:00
 url: /2015/07/05/xampp-e-wordpress-problemas-com-admin-usando-multisite/

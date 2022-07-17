@@ -1,6 +1,6 @@
 ---
 title: SQL Server 2012 Brasil Tour
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-21T17:22:36+00:00
 url: /2012/05/21/sql-server-2012-brasil-tour/

@@ -1,6 +1,6 @@
 ---
 title: SocioClean – Cuide da sua imagem perante a Internet
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-28T14:27:59+00:00
 url: /2011/02/28/socioclean-cuide-da-sua-imagem-perante-a-internet/

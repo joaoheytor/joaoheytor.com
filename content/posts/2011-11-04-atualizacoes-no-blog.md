@@ -1,6 +1,6 @@
 ---
 title: Atualizações no blog…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-11-04T20:36:09+00:00
 url: /2011/11/04/atualizacoes-no-blog/

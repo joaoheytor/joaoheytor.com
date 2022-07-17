@@ -1,6 +1,6 @@
 ---
 title: Por que seu currículo já não vale mais nada…
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2014-01-06T08:32:32+00:00
 excerpt: Você sabia que seu currículo tem cada vez menos valor nesse novo cenário dominado pela internet e pelos meios digitais? Pelo menos, o currículo em seu formato tradicional.

@@ -1,6 +1,6 @@
 ---
 title: Problema com Spool de Impressão
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-06-15T19:00:44+00:00
 excerpt: Algumas vezes, temos dificuldades para usar a impressora. As vezes até achamos que o problema é da própria impressora, mas não, muitas vezes é apenas o serviço de spool do Windows que deu algum problema...

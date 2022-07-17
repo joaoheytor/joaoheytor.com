@@ -1,6 +1,6 @@
 ---
 title: O que são as FSMO ??? – Parte 2
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-04-28T00:41:24+00:00
 url: /2011/04/27/o-que-sao-as-fsmo-parte-2/

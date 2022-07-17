@@ -1,6 +1,6 @@
 ---
 title: Como criar MSN NOME@qualquercoisa.com
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-19T00:04:06+00:00
 url: /2011/02/18/como-criar-msn-nomequalquercoisa-com/

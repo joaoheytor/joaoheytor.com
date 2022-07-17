@@ -1,6 +1,6 @@
 ---
 title: Buscar na Internet utilizando o Menu Iniciar
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-10T23:22:31+00:00
 url: /2011/02/10/buscar-na-internet-utilizando-o-menu-iniciar/

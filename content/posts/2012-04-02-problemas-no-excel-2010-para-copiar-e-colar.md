@@ -1,6 +1,6 @@
 ---
 title: Problemas no Excel 2010 para copiar e colar
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-04-02T21:44:53+00:00
 url: /2012/04/02/problemas-no-excel-2010-para-copiar-e-colar/

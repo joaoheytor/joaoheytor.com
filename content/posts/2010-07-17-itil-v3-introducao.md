@@ -1,6 +1,6 @@
 ---
 title: ITIL V3 – Introdução
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2010-07-17T04:40:10+00:00
 url: /2010/07/17/itil-v3-introducao/

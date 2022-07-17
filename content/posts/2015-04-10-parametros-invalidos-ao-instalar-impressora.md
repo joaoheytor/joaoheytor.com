@@ -1,6 +1,6 @@
 ---
 title: Parâmetros Inválidos ao instalar impressora
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-04-11T01:17:55+00:00
 url: /2015/04/10/parametros-invalidos-ao-instalar-impressora/

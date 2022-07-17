@@ -1,6 +1,6 @@
 ---
 title: Windows 10 Como habilitar Compartilhamento Administrativo
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2016-04-11T20:51:30+00:00
 url: /2016/04/11/windows-10-como-habilitar-compartilhamento-administrativo/

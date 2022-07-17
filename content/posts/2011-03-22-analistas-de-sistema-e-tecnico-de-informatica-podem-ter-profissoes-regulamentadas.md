@@ -1,6 +1,6 @@
 ---
 title: Analistas de sistema e técnico de informática podem ter profissões regulamentadas
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-22T12:44:42+00:00
 url: /2011/03/22/analistas-de-sistema-e-tecnico-de-informatica-podem-ter-profissoes-regulamentadas/

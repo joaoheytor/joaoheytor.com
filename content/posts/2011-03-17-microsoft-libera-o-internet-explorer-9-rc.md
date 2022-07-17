@@ -1,6 +1,6 @@
 ---
 title: Microsoft libera o Internet Explorer 9 RC
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-03-17T03:47:39+00:00
 url: /2011/03/17/microsoft-libera-o-internet-explorer-9-rc/

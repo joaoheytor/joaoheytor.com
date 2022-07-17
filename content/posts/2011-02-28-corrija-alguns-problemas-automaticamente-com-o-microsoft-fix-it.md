@@ -1,6 +1,6 @@
 ---
 title: Corrija alguns problemas automaticamente com o Microsoft Fix It
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-28T14:19:49+00:00
 url: /2011/02/28/corrija-alguns-problemas-automaticamente-com-o-microsoft-fix-it/

@@ -1,6 +1,6 @@
 ---
 title: 8 “mentiras” de carreira que você conta para si mesmo
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-03-28T19:32:01+00:00
 url: /2012/03/28/8-mentiras-de-carreira-que-voce-conta-para-si-mesmo/

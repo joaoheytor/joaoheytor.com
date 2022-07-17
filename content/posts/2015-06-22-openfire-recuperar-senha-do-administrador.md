@@ -1,6 +1,6 @@
 ---
 title: 'Openfire: Recuperar senha do administrador'
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2015-06-23T02:53:46+00:00
 url: /2015/06/22/openfire-recuperar-senha-do-administrador/

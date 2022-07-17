@@ -1,6 +1,6 @@
 ---
 title: Falha técnica apaga dados de 150 mil usuários do Gmail
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-28T23:24:14+00:00
 url: /2011/02/28/falha-tecnica-apaga-dados-de-150-mil-usuarios-do-gmail/

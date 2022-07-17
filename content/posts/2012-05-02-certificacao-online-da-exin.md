@@ -1,6 +1,6 @@
 ---
 title: Certificação Online da EXIN
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2012-05-02T12:58:30+00:00
 url: /2012/05/02/certificacao-online-da-exin/

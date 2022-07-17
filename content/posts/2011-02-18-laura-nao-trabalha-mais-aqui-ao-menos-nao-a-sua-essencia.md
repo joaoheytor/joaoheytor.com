@@ -1,6 +1,6 @@
 ---
 title: Laura Não Trabalha Mais Aqui – Ao menos não a sua essência.
-author: blogadminjoaoheytor
+author: João Heytor
 type: post
 date: 2011-02-19T00:13:42+00:00
 url: /2011/02/18/laura-nao-trabalha-mais-aqui-ao-menos-nao-a-sua-essencia/
