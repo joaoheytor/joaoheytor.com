@@ -21,11 +21,13 @@ Quantas vezes, já mandamos imprimir alguma coisa e a impressora simplesmente n�
 
 Algumas vezes, a resolução do problema é extremamente fácil e rápida. Abaixo, veremos como criar um simples script que para o spool de impressão do Windows e depois o reinicia.
 
-> _@echo off  
-> net stop spooler  
-> pause  
-> del %windir%system32spoolprinters\*.\* /q /s  
-> net start spooler_
+```shell
+@echo off  
+net stop spooler  
+pause  
+del %windir%system32spoolprinters\*.\* /q /s  
+net start spooler
+```
 
 Já tive muitas dores de cabeça com tal problema&#8230; Para usá-lo, basta abrir o Bloco de Notas do Windows (Iniciar, Programas, Acessórios, Bloco de Notas). Em seguida, copiar o código acima e colar dentro do mesmo. Na hora de salvar, digite um nome qualquer, porém adicione a extensão “.bat” ao fim do nome escolhido. Pronto, faça o teste!
 
