@@ -22,7 +22,7 @@ Todas as vezes que executamos o comando de Reparar uma conexõa de rede, são la
 - **ipconfig /release** - Limpa as configurações do TCP/IP;  
 - **ipconfig /flushdns** - Limpa o chace do DNS Resolver;  
 - **ipconfig /registerdns** - Atualiza as concessões DHCP e registra novamente nomes DNS;  
-- **ipconfig /renew** &#8211; Obtem novamente as configurações TCP/IP.  
+- **ipconfig /renew** - Obtem novamente as configurações TCP/IP.  
 - **arp -d *** - Limpa o Cache do Address Resolution Protocol (ARP);  
 - **nbtstat -r** - Carrega o cache de nomes NetBIOS;  
 - **nbtstat -rr** - Atualiza os nomes NetBIOS;
