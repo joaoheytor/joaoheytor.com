@@ -5,7 +5,7 @@ type: post
 date: 2010-06-23T02:41:27+00:00
 url: /2010/06/22/google-lanca-servico-que-transforma-imagem-em-texto/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/google1.jpg
+  - http://blog.joaoheytor.com/img/2010/06/google1.jpg
 Tab:
   - GOOGLE OCR
 categories:

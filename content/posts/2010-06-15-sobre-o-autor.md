@@ -5,7 +5,7 @@ type: post
 date: 2010-06-15T18:34:34+00:00
 url: /2010/06/15/sobre-o-autor/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/XR.jpg
+  - http://blog.joaoheytor.com/img/2010/06/XR.jpg
 Tab:
   - O AUTOR...
 dsq_thread_id:

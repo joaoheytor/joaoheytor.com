@@ -30,9 +30,11 @@ Temos duas possíveis soluções:
 
 **2 &#8211; Editar o arquivo &#8220;_openfire.xm_l&#8221; que fica na pasta _&#8220;conf&#8221;_ do Openfire e adicionar as linhas:**
 
-> <admin>  
-> <authorizedUsernames>usuario\_active\_directory</authorizedUsernames>  
-> </admin>
+```
+<admin>  
+<authorizedUsernames>usuario\_active\_directory</authorizedUsernames>  
+</admin>
+```
 
 Obs.: Colocar logo após a tag **<span class="tag"><</span><span class="tag-name">jive</span>**<span class="tag"><strong>></strong>.</span>
 

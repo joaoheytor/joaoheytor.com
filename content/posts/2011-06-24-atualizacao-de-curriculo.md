@@ -19,8 +19,7 @@ Também me tornei MCIPT Virtualization Administrator on Windows Server® 2008 R
 Ah e a quem interessar, vocês podem acessar meu Transcript usando o endereço: https://mcp.microsoft.com/authenticate/validatemcp.aspx
 
 E as seguintes informações:
-
-**Transcript ID:** 955119  
-**Access Code:** TranScripT
+- **Transcript ID:** 955119  
+- **Access Code:** TranScripT
 
 Bom, é isso pessoal!!! Agora que a minha agenda está melhorando, prometo postar com mais frequência!!! E RUMO AO MCSE!!! :D:D:D

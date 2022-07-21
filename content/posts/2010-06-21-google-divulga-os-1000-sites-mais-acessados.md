@@ -5,7 +5,7 @@ type: post
 date: 2010-06-21T13:24:51+00:00
 url: /2010/06/21/google-divulga-os-1000-sites-mais-acessados/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/Google-logo-20100528113640.jpg
+  - http://blog.joaoheytor.com/img/2010/06/Google-logo-20100528113640.jpg
 Tab:
   - GOOGLE E OS 1000+
 dsq_thread_id:

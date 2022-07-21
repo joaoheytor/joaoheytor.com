@@ -9,7 +9,7 @@ aktt_notify_twitter:
 gwo4wp:
   - 'a:4:{s:7:"enabled";s:1:"1";s:14:"control_script";s:0:"";s:15:"tracking_script";s:0:"";s:17:"conversion_script";s:0:"";}'
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/09/virtu2.jpg
+  - http://blog.joaoheytor.com/img/2010/09/virtu2.jpg
 aktt_tweeted:
   - 1
 dsq_thread_id:

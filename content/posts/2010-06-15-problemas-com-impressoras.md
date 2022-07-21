@@ -6,7 +6,7 @@ date: 2010-06-15T19:00:44+00:00
 excerpt: Algumas vezes, temos dificuldades para usar a impressora. As vezes até achamos que o problema é da própria impressora, mas não, muitas vezes é apenas o serviço de spool do Windows que deu algum problema...
 url: /2010/06/15/problemas-com-impressoras/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/windowslogobk8.jpg
+  - http://blog.joaoheytor.com/img/2010/06/windowslogobk8.jpg
 Tab:
   - IMPRESSORAS NO WINDOWS
 dsq_thread_id:

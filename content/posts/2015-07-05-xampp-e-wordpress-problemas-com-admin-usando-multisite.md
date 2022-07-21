@@ -22,7 +22,9 @@ Após efetuarmos todas as alterações no _wp-config.php_ e _.htaccess_, perdía
 
 Para resolvermos esse problema, achei um tópico no Fórum Oficial do WordPress, onde precisamos alterar uma linha no arquivo:
 
-> C:\xampp\apps\wordpress\conf\httpd-app.conf
+```
+C:\xampp\apps\wordpress\conf\httpd-app.conf
+```
 
 Dentro dele, devemos alterar a opção **`AllowOverride None`** para **`AllowOverride All`**.
 

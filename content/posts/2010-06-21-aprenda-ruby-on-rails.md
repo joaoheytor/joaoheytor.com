@@ -5,7 +5,7 @@ type: post
 date: 2010-06-22T01:43:16+00:00
 url: /2010/06/21/aprenda-ruby-on-rails/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/xinsrc_5421105291313875029224.jpg
+  - http://blog.joaoheytor.com/img/2010/06/xinsrc_5421105291313875029224.jpg
 Tab:
   - RUBY ON RAILS
 dsq_thread_id:

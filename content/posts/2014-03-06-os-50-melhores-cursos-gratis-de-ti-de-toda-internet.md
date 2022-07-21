@@ -4,7 +4,7 @@ author: João Heytor
 type: post
 date: 2014-03-06T10:28:24+00:00
 url: /2014/03/06/os-50-melhores-cursos-gratis-de-ti-de-toda-internet/
-featured_image: /wp-content/uploads/2017/05/blank.gif
+featured_image: /img/2017/05/blank.gif
 dsq_thread_id:
   - 2371385484
 categories:

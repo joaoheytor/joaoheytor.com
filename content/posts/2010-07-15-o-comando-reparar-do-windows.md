@@ -19,13 +19,12 @@ categories:
 
 ---
 Todas as vezes que executamos o comando de Reparar uma conexõa de rede, são lançados comandos básicos, que também podem ser executados dentro de um Prompt de Comando, como por exemplo:
-
-**ipconfig /release** &#8211; Limpa as configurações do TCP/IP;  
-**ipconfig /flushdns** &#8211; Limpa o chace do DNS Resolver;  
-**ipconfig /registerdns** &#8211; Atualiza as concessões DHCP e registra novamente nomes DNS;  
-**ipconfig /renew** &#8211; Obtem novamente as configurações TCP/IP.  
-**arp -d *** &#8211; Limpa o Cache do Address Resolution Protocol (ARP);  
-**nbtstat -r** &#8211; Carrega o cache de nomes NetBIOS;  
-**nbtstat -rr** &#8211; Atualiza os nomes NetBIOS;
+- **ipconfig /release** - Limpa as configurações do TCP/IP;  
+- **ipconfig /flushdns** - Limpa o chace do DNS Resolver;  
+- **ipconfig /registerdns** - Atualiza as concessões DHCP e registra novamente nomes DNS;  
+- **ipconfig /renew** &#8211; Obtem novamente as configurações TCP/IP.  
+- **arp -d *** - Limpa o Cache do Address Resolution Protocol (ARP);  
+- **nbtstat -r** - Carrega o cache de nomes NetBIOS;  
+- **nbtstat -rr** - Atualiza os nomes NetBIOS;
 
 Vale lembrar, que esses são apenas alguns dos principais comandos básicos que o comando Reparar Conexão efetua. Para saber todos as funlões de um comando, basta digitar: **COMANDO /?**

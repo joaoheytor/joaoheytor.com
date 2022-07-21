@@ -5,7 +5,7 @@ type: post
 date: 2010-06-15T22:53:03+00:00
 url: /2010/06/15/ajustando-layout-01/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/vuvuzela.jpg
+  - http://blog.joaoheytor.com/img/2010/06/vuvuzela.jpg
 Tab:
   - CHEGA DE BARULHO
 dsq_thread_id:

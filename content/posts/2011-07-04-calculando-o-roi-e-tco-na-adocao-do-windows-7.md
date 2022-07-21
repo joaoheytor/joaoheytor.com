@@ -17,11 +17,10 @@ Pessoal, achei esse fantástico artigo no blog do <a href="http://marcelomatias.
 _Ao planejar a implementação do Windows 7 em seu ambiente vários assuntos precisam ser discutidos: infraestrutura, comp__atibilidade de aplicações, compatibilidade de hardware, processo de instalação, migração dos dados, etc… Essas são etapas “técnicas” do projeto (<a href="http://technet.microsoft.com/pt-br/windows/dd361745" target="_blank">portal TechCenter do Windows 7</a>)._
 
 _No entanto, provavelmente você vai precisar de investimentos para realizá-lo. E quando você levar esse assunto ao gestor financeiro, ele pode te questionar:_
-
-  * _Quanto custa?_
-  * _Como essa solução pode aumentar o faturamento da nossa empresa?_
-  * _Em quantos anos (ou meses) teremos o Retorno desse Investimento (ROI)?_
-  * _Qual a proposta de redução do Custo Total de Propriedade (TCO)?_
+  - _Quanto custa?_
+  - _Como essa solução pode aumentar o faturamento da nossa empresa?_
+  - _Em quantos anos (ou meses) teremos o Retorno desse Investimento (ROI)?_
+  - _Qual a proposta de redução do Custo Total de Propriedade (TCO)?_
 
 _Responder essas questões não é tarefa fácil, mas pode ser uma tarefa menos árdua se tivermos uma ferramenta com esse propósito._
 
@@ -73,12 +72,11 @@ _Ao final dessa página também há um formulário “escondido”. Clique em �
 _**Aba “Implantação do Windows 7”**_
 
 _Aqui você detalha as ferramentas e métodos usados na implementação do Windows 7._
-
-  * _Vai usar System Center Configuration Manager (Intervenção Zero) ou apenas o Microsoft Deployment Toolkit (Intervenção Leve) no processo de migração?_
-  * _Quantos minutos serão gastos em cada etapa? – esses valores já estão pré-populados, como a grande maioria._
-  * _Como que a questão de compatibilidade de aplicações será trabalhada?_
-  * _Qual o custo de treinamento para o usuário final?_
-  * _etc…_
+  - _Vai usar System Center Configuration Manager (Intervenção Zero) ou apenas o Microsoft Deployment Toolkit (Intervenção Leve) no processo de migração?_
+  - _Quantos minutos serão gastos em cada etapa? – esses valores já estão pré-populados, como a grande maioria._
+  - _Como que a questão de compatibilidade de aplicações será trabalhada?_
+  - _Qual o custo de treinamento para o usuário final?_
+  - _etc…_
 
 _[<img loading="lazy" class="aligncenter size-thumbnail wp-image-390" title="image6" src="/img/sites/4/2011/07/image6-150x150.png" alt="" width="150" height="150" />][6]  
 _ 
@@ -120,10 +118,9 @@ _[<img loading="lazy" class="alignleft size-thumbnail wp-image-392" title="image
 &nbsp;
 
 _Os tipos de relatório são:_
-
-  * _Relatório Completo em formato .DOC (~179 páginas)_
-  * _Relatório Resumido em formato .DOC (~28 páginas)_
-  * _Apresentação em formato .PPT (~50 slides)_
+  - _Relatório Completo em formato .DOC (~179 páginas)_
+  - _Relatório Resumido em formato .DOC (~28 páginas)_
+  - _Apresentação em formato .PPT (~50 slides)_
 
 &nbsp;
 

@@ -5,7 +5,7 @@ type: post
 date: 2010-06-21T17:59:13+00:00
 url: /2010/06/21/word-2007-o-problema-da-numeracao-de-paginas/
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/Office2007.png
+  - http://blog.joaoheytor.com/img/2010/06/Office2007.png
 Tab:
   - DICA WORD 2007
 dsq_thread_id:

@@ -7,7 +7,7 @@ url: /2010/06/21/hotmail-estreia-o-hotmail-com-br/
 Tab:
   - NOVO HOTMAIL
 Thumbnail:
-  - http://blog.joaoheytor.com/wp-content/uploads/2010/06/img_hotmail.png
+  - http://blog.joaoheytor.com/img/2010/06/img_hotmail.png
 dsq_thread_id:
   - 5136811846
 categories:

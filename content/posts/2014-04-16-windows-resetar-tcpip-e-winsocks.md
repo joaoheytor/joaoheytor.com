@@ -24,10 +24,11 @@ Para os novos, vamos primeiramente as definições básicas:
 Para que seja feito o reset do TCP/IP e do Winsock, usaremos o comando _**netsh**_ (Já abordado em outro tópico deste blog: [_**Dicas para o comando netsh https://joaoheytor.com/dicas-para-o-comando-netsh**_][1]/).
 
 Antes de mais nada, deveremos abrir o prompt de comando como Administrador. Em seguida, usamos estes comandos:
-
-> netsh int ip reset c:resetlog.txt  
-> netsh winsock show catalog  
-> netsh winsock reset
+```powershell
+netsh int ip reset c:resetlog.txt  
+netsh winsock show catalog  
+netsh winsock reset
+```
 
 Agora é só reiniciar o computador!
 

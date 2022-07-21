@@ -35,8 +35,9 @@ Dependendo da quantidade de drivers, pode ser que você tenha uma lista um pouco
 Na prática, este comando lista todos os arquivos .inf que ficam na pasta **%system32%DriverStoreFileRepository**.
 
 Dessa forma, anote o nome dos arquivos que queremos remover e utilize o seguinte comando:
-
-> **pnputil -f -d ARQUIVO.inf**
+```
+pnputil -f -d ARQUIVO.inf
+```
 
 Pronto! O driver da impressora foi removido e com isso você pode reinstalar o driver sem problemas.
 

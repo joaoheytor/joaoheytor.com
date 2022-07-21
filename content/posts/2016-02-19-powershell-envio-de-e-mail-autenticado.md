@@ -16,11 +16,9 @@ Salve, salve galera! Tenho dedicado uma parte do meu tempo para aprender PowerSh
 
 Gostaria de dividir com vocês um script que uso para o envio de e-mails (Normalmente tenho alguma funcionalidade extra, como por exemplo, rodar um relatório a cada X dias e envia-lo via e-mail para mim).
 
-<!--more-->
-
 Bom, vamos inicialmente declarar as variáveis que iremos utilizar:
-
-<pre># Script para Envio de E-mail Autenticado
+```powershell
+# Script para Envio de E-mail Autenticado
 
 # E-mail do REMETENTE
 $FROMEmail = "teste@joaoheytor.com"
@@ -53,7 +51,7 @@ $SMTPSend.Send($FROMEmail, $TOEmail, $subject, $body)}
 
 # Agora basta chamar a função SendMail e passar os parametros ASSUNTO (Subject) e o CORPO DO E-MAIL (BODY)
 SendMail -subject "Testando" -body "Isso é um teste de envio de e-mail"
-</pre>
+```
 
 Bom, é isso pessoal! Espero que tenham gostado!
 

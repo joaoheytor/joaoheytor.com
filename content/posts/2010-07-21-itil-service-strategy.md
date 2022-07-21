@@ -37,22 +37,21 @@ Além disso, a tecnologia e a inovação têm se tornado as principais capacidad
 <span style="line-height: 115%;font-family: 'Calibri','sans-serif';font-size: 11pt">Em resumo, é discutido o gerenciamento do ciclo financeiro do portifólio de serviços e, os investimentos necessários X retorno sobre os investimento do ponto de vista da TI.</span>
 
 <span style="line-height: 115%;font-family: 'Calibri','sans-serif';font-size: 11pt"><strong>3. Strategy Generation<br /> </strong></span><span style="line-height: 115%;font-family: 'Calibri','sans-serif';font-size: 11pt">Definição da estratégia em si. </span>Isso é feito através de 4 etapas:  
-**DEFINIÇÃO:** Levantamento dos Serviços e Casos de Negócios;  
-**ANÁLISE:** Priorização de investimentos e balanceamento entre entrega e demanda;  
-**APROVAÇÃO:** Onde é feita a decisão, ou seja, se vale a pena ou não;  
-**OFICIALIZAÇÃO:** Divulgação para a organização e alocação de recursos.
+- **DEFINIÇÃO:** Levantamento dos Serviços e Casos de Negócios;  
+- **ANÁLISE:** Priorização de investimentos e balanceamento entre entrega e demanda;  
+- **APROVAÇÃO:** Onde é feita a decisão, ou seja, se vale a pena ou não;  
+- **OFICIALIZAÇÃO:** Divulgação para a organização e alocação de recursos.
 
 <span style="line-height: 115%;font-family: 'Calibri','sans-serif';font-size: 11pt"><strong>4. Service Portolio Management<br /> </strong></span><span style="line-height: 115%;font-family: 'Calibri','sans-serif';font-size: 11pt">Ou Gerenciamento do Portifólio de Serviços, onde administra os investimentos em gerenciamento de serviços, sempre com o foco em agregar valor ao negócio. </span>O Service Portfolio contém todos os status de todos os serviços, que são:
-
-**Service Pipeline**: Serviços estes que estão em desenvolvimento para o mercado específico;  
-**Service Catalogue**: Serviços que estão ativos em produção ou disponíveis para desenvolvimento;  
-**Retired Services**: Serviços já oferecidos que não estão mais em produção.
+- **Service Pipeline**: Serviços estes que estão em desenvolvimento para o mercado específico;  
+- **Service Catalogue**: Serviços que estão ativos em produção ou disponíveis para desenvolvimento;  
+- **Retired Services**: Serviços já oferecidos que não estão mais em produção.
 
 Também é importante lembrar os 4 “P’s” da estratégia, que são:  
-**PERSPECTIVA –** Visão Clara e Foco;  
-**POSIÇÃO –** Tomar uma posição bem definida;  
-**PLANO –** Planejar como a organização deverá se auto-desenvolver;  
-**PADRÃO –** Manter consistência de decisões e ações.
+- **PERSPECTIVA –** Visão Clara e Foco;  
+- **POSIÇÃO –** Tomar uma posição bem definida;  
+- **PLANO –** Planejar como a organização deverá se auto-desenvolver;  
+- **PADRÃO –** Manter consistência de decisões e ações.
 
 E nunca devemos esquecer que toda vez que falamos de ativos, nos referimos à (Por ordem de importância:  
 **PESSOAS + PROCESSOS+ TECNOLOGIA**

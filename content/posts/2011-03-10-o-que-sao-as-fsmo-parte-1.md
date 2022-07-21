@@ -269,5 +269,5 @@ Bom&#8230; por enquanto é só pessoal. Nesse primeiro artigo, dei um enfoque no
 **Fonte: <a href="http://technet.microsoft.com/pt-br/library/cc716426.aspx" target="_blank">Technet</a>**
 
  [1]: /img/sites/4/2011/03/netdom_query_fsmo.png
- [2]: ../wp-content/uploads/2011/03/fsmo_user_computers.png
+ [2]: ../img/2011/03/fsmo_user_computers.png
  [3]: /img/sites/4/2011/03/fsmo_user_computers.png

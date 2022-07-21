@@ -4,7 +4,7 @@ author: João Heytor
 type: post
 date: 2018-10-04T02:41:31+00:00
 url: /2018/10/03/gitlab-meu-primeiro-pipeline/
-featured_image: /wp-content/uploads/2018/10/jenkins-pipeline-1-1-1.png
+featured_image: /img/2018/10/jenkins-pipeline-1-1-1.png
 categories:
   - DevOps
 
