@@ -2,6 +2,7 @@ baseURL = 'http://hugo.joaoheytor.com/'
 title = 'João Heytor'
 theme = 'zen'
 languageCode = 'pt-br'
+googleanalytics = 'UA-17106120-1'
 
 [outputFormats]
   [outputFormats.SearchIndex]
